@@ -1,0 +1,19 @@
+{
+  "name": "hometown",
+  "version": "0.0.1",
+  "author": "Ionic Framework",
+  "homepage": "http://ionicframework.com/",
+  "private": true,
+  "scripts": {
+    "clean": "ionic-app-scripts clean",
+    "build": "ionic-app-scripts build",
+    "lint": "ionic-app-scripts lint",
+    "ionic:build": "ionic-app-scripts build",
+    "ionic:serve": "ionic-app-scripts serve"
+  },
+  "dependencies": {
+    "moon-lite": "git+ssh://git@github.com:developer0623/api-boiler.git#dev::lib"
+  },
+  "devDependencies": {},
+  "description": "An Ionic project"
+}
